@@ -3,7 +3,7 @@
 
 **`Analista`**
 
-Me chamo Luciano França Guimarães, tenho 49 anos e sou paulista. Bacharel em Direito na UNIP (2001) e tecnólogo em Gestão de RH na FATEF (2012) sempre me interessei por tecnologias. Fiz alguns cursos na impacta: Web Designer, PHP e SQL. Trabalhei como promotor de vendas, atendimento, treinamento e desenvolvimento de pessoas, comunicação, suporte técnico N1 (atendimento receptivo) e N2 (sql server) em empresas B2B. Atualmente, estou em busca de recolocação profissional. Tenho um site pessoal [LucianoFG](https://www.lucianofg.com.br)"., com minhas redes, CV e hobbies "
+Me chamo Luciano França Guimarães, tenho 49 anos e sou paulista. Bacharel em Direito na UNIP (2001) e tecnólogo em Gestão de RH na FATEF (2012) sempre me interessei por tecnologias. Cursos na impacta: Web Designer, PHP e SQL. Trabalhei como promotor de vendas, atendimento, treinamento e desenvolvimento de pessoas, comunicação, suporte técnico N1 (atendimento receptivo) e N2 (sql server) em empresas B2B. Atualmente, estou em busca de recolocação profissional. Site pessoal [LucianoFG](https://www.lucianofg.com.br).
 
 <p align="left">
     <a href="https://github.com/franssa?tab=repositories&sort=stargazers">
